@@ -1,4 +1,5 @@
 # 🐼 안녕하세요, 파이썬을 기반으로 개발 공부를 하고 있는 안기부입니다.
+<img src="https://www.spriters-resource.com/resources/sheet_icons/169/172048.gif?updated=1650079923" alt="도트 커비" width="120"/>
 
 <br>
 
@@ -23,7 +24,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/gibupanda/LIVON_Project">
-          # <img src="https://img.shields.io/badge/LIVON_Project-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="LIVON_Project"/>
+          <img src="https://img.shields.io/badge/LIVON_Project-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="LIVON_Project"/>
         </a>
       </td>
       <td align="center">
