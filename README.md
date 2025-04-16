@@ -65,12 +65,12 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/이메일-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="이메일"/>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="이메일"/>
         <br>
         <code>facecom2000@gmail.com</code>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/디스코드-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="디스코드"/>
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="디스코드"/>
         <br>
         <code>facecom200</code>
       </td>
