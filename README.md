@@ -24,22 +24,16 @@
       <td align="center">
         <a href="https://github.com/gibupanda/LIVON_Project">
           <img src="https://img.shields.io/badge/LIVON_Project-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="LIVON_Project"/>
-          <br>
-          <sub><b>LIVON_Project</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/gibupanda/smart_city">
           <img src="https://img.shields.io/badge/smart_city-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="smart_city"/>
-          <br>
-          <sub><b>smart_city</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/gibupanda/today_talk">
           <img src="https://img.shields.io/badge/today_talk-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="today_talk"/>
-          <br>
-          <sub><b>today_talk</b></sub>
         </a>
       </td>
     </tr>
