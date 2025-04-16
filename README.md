@@ -23,7 +23,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/gibupanda/LIVON_Project">
-          <img src="https://img.shields.io/badge/LIVON_Project-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="LIVON_Project"/>
+          # <img src="https://img.shields.io/badge/LIVON_Project-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="LIVON_Project"/>
         </a>
       </td>
       <td align="center">
