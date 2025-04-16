@@ -72,8 +72,23 @@
 ## 🌱 연락처
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/이메일-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="이메일"/>
+        <br>
+        <code>facecom2000@gmail.com</code>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/디스코드-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="디스코드"/>
+        <br>
+        <code>facecom200</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
   
-[![이메일](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facecom2000@gmail.com)
-[![디스코드](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/facecom200)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gibupanda)
 </div>
