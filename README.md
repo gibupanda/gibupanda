@@ -1,4 +1,4 @@
-# 안녕하세요, 파이썬을 기반으로 개발 공부를 하고 있는 안기부입니다. <img src="https://www.spriters-resource.com/resources/sheet_icons/143/146377.png?updated=1609165515" alt="도트 커비 PNG" width="100"/>
+# 파이썬을 기반으로 개발 공부를 하고 있는 안기부입니다. <img src="https://www.spriters-resource.com/resources/sheet_icons/143/146377.png?updated=1609165515" alt="도트 커비 PNG" width="100"/>
 
 <div align="center">
   <img src="https://www.spriters-resource.com/resources/sheet_icons/198/200858.gif?updated=1688787145" alt="도트 커비 1" width="100"/>
