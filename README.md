@@ -1,4 +1,5 @@
-# <img src="https://readme-typing-svg.demolab.com/?lines=안녕하세요!+반갑습니다👋;파이썬+개발자+안기부입니다!&center=true&width=380&height=45"> <img src="https://www.spriters-resource.com/resources/sheet_icons/143/146377.png?updated=1609165515" alt="도트 커비 PNG" width="100"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=안녕하세요!+반갑습니다👋;파이썬+개발자+안기부입니다!&center=true&width=380&height=45">
+
 <div align="center">
   <img src="https://www.spriters-resource.com/resources/sheet_icons/198/200858.gif?updated=1688787145" alt="도트 커비 1" width="100"/>
   <img src="https://www.spriters-resource.com/resources/sheet_icons/195/197726.gif?updated=1684173595" alt="도트 커비 2" width="100"/>
