@@ -2,10 +2,10 @@
 
 ## 🎋 소개
 
-```
+
 🐼 안녕하세요 파이썬을 기반으로 코딩 개발 공부를 하고 있는 안기부입니다.
 🎋 지속 가능한 개발과 실생활에서도 응용할 수 있는 기능을 항상 기획해 나아가고 있습니다.
-```
+
 
 ## 🌿 기술 스택
 
@@ -56,11 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gibupanda&show_icons=true&theme=vue&border_color=2E8B57&icon_color=2E8B57&title_color=2E8B57" alt="GitHub 통계"/>
 </div>
 
-## 🌿 코딩 여정
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=파이썬으로%20시작해%20실생활에%20유용한%20코드를%20만들어갑니다&author=안기부" />
-</div>
 
 ## 🌱 연락처
 
@@ -77,11 +72,13 @@
         <br>
         <code>facecom200</code>
       </td>
+      <td align="center">
+        <a href="https://github.com/gibupanda">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+          <br>
+          <sub><b>이미지 클릭</b></sub>
+        </a>
+      </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gibupanda)
 </div>
