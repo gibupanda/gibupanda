@@ -74,8 +74,8 @@
         <a href="https://github.com/gibupanda">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
           <br>
-          <code>이미지 클릭 시 이동</code>
         </a>
+        <code>이미지 클릭 시 이동</code>
       </td>
     </tr>
   </table>
