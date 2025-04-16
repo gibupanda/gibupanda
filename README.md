@@ -1,6 +1,7 @@
 # 🐼 안녕하세요, 파이썬을 기반으로 개발 공부를 하고 있는 안기부입니다.<br><br>지속 가능한 개발과 실생활에서도 응용할 수 있는 기능을<br>항상 기획해 나아가고 있습니다.
 
 <br>
+
 ## 🌿 기술 스택
 
 <div align="center">
@@ -14,6 +15,7 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div>
 <br>
+
 ## 🎋 프로젝트
 
 <div align="center">
@@ -44,6 +46,7 @@
   </table>
 </div>
 <br>
+
 ## 📊 GitHub 통계
 
 <div align="center">
@@ -51,6 +54,7 @@
 </div>
 
 <br>
+
 ## 🌱 연락처
 
 <div align="center">
