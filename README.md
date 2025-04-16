@@ -30,17 +30,32 @@
 ## 🎋 프로젝트
 
 <div align="center">
-  <a href="https://github.com/gibupanda/LIVON_Project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gibupanda&repo=LIVON_Project&theme=vue&border_color=2E8B57&title_color=2E8B57" />
-  </a>
-  <a href="https://github.com/gibupanda/smart_city">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gibupanda&repo=smart_city&theme=vue&border_color=2E8B57&title_color=2E8B57" />
-  </a>
-  <a href="https://github.com/gibupanda/today_talk">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gibupanda&repo=today_talk&theme=vue&border_color=2E8B57&title_color=2E8B57" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/gibupanda/LIVON_Project">
+          <img src="https://img.shields.io/badge/LIVON_Project-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="LIVON_Project"/>
+          <br>
+          <sub><b>LIVON_Project</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gibupanda/smart_city">
+          <img src="https://img.shields.io/badge/smart_city-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="smart_city"/>
+          <br>
+          <sub><b>smart_city</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gibupanda/today_talk">
+          <img src="https://img.shields.io/badge/today_talk-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="today_talk"/>
+          <br>
+          <sub><b>today_talk</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-<br>
 
 ## 📊 GitHub 통계
 
