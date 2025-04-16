@@ -54,6 +54,10 @@
 </div>
 
 <br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+<br>
 
 ## 🌱 연락처
 
