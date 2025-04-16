@@ -1,12 +1,5 @@
 # 🐼 안녕하세요, GibuPanda입니다! 🎋
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🐼-판다-brightgreen?style=for-the-badge&logo=github" alt="판다"/>
-  <br><br>
-  
-  ![대나무숲의 판다](https://media.giphy.com/media/dIBLtclYzQPgMdvuPP/giphy.gif)
-</div>
-
 ## 🎋 소개
 
 ```
