@@ -23,7 +23,6 @@
 <br>
 
 ## 🎋 프로젝트
-
 <div align="center">
   <table>
     <tr>
