@@ -4,7 +4,6 @@
   <img src="https://www.spriters-resource.com/resources/sheet_icons/195/197726.gif?updated=1684173595" alt="도트 커비 2" width="100"/>
   <img src="https://www.spriters-resource.com/resources/sheet_icons/238/241062.gif?updated=1728837189" alt="도트 커비 3" width="100"/>
   <img src="https://www.spriters-resource.com/resources/sheet_icons/190/192991.gif?updated=1677970951" alt="도트 커비 추가" width="100"/>
-  <img src="https://www.spriters-resource.com/resources/sheet_icons/168/171517.gif?updated=1648938576" alt="도트 커비 5" width="100"/>
 </div>
 
 
@@ -22,6 +21,7 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div>
 <br>
+<img src="https://www.spriters-resource.com/resources/sheet_icons/168/171517.gif?updated=1648938576" alt="도트 커비 5" width="100"/>
 
 ## 🎋 프로젝트
 <div align="center">
