@@ -20,8 +20,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div>
-<br>
 <img src="https://www.spriters-resource.com/resources/sheet_icons/168/171517.gif?updated=1648938576" alt="도트 커비 5" width="100"/>
+<br>
 
 ## 🎋 프로젝트
 <div align="center">
