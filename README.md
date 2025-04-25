@@ -18,7 +18,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/-AJAX-005571?style=flat)
+![AJAX](https://img.shields.io/badge/-AJAX-005571?style=flat&logo=javascript&logoColor=white)
 
 ### 🧩 백엔드
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
@@ -29,8 +29,8 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat&logo=darknet&logoColor=white)
 
 ### 🔧 개발 도구
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -38,14 +38,14 @@
 
 ### 💾 서버 / 인프라
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
 ### 🔍 기타 도구
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat)
-![Requests](https://img.shields.io/badge/-Requests-2D8CFF?style=flat)
-![API](https://img.shields.io/badge/-API-FFB300?style=flat)
-![Mantis](https://img.shields.io/badge/-Mantis-E87C09?style=flat)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/-Requests-2D8CFF?style=flat&logo=python&logoColor=white)
+![API](https://img.shields.io/badge/-API-FFB300?style=flat&logo=fastapi&logoColor=white)
+![Mantis](https://img.shields.io/badge/-Mantis-E87C09?style=flat&logo=mantis&logoColor=white)
 <br>
 
 ## 🎋 프로젝트
