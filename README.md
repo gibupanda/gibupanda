@@ -30,7 +30,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat&logo=darknet&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat&logo=opencv&logoColor=white)
 
 ### 🔧 개발 도구
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -41,11 +41,11 @@
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
 ### 🔍 기타 도구
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=firefox&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
 ![Requests](https://img.shields.io/badge/-Requests-2D8CFF?style=flat&logo=python&logoColor=white)
 ![API](https://img.shields.io/badge/-API-FFB300?style=flat&logo=fastapi&logoColor=white)
-![Mantis](https://img.shields.io/badge/-Mantis-E87C09?style=flat&logo=mantis&logoColor=white)
+![Mantis](https://img.shields.io/badge/-Mantis-E87C09?style=flat&logo=bugatti&logoColor=white)
 <br>
 
 ## 🎋 프로젝트
