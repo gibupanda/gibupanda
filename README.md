@@ -125,17 +125,12 @@
   원작자: ANGIBU (https://github.com/gibupanda)
 -->
 
+<!-- 워터마크 섹션 -->
+
 <div align="center">
-  <svg width="0" height="0" style="position:absolute;">
-    <defs>
-      <linearGradient id="angibu-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#2E8B57;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#3CB371;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" fill="url(#angibu-gradient)" font-size="12" text-anchor="middle">Made by ANGIBU</text>
-  </svg>
+  <img src="https://img.shields.io/badge/Made_by-ANGIBU-2E8B57?style=for-the-badge&logoColor=white" alt="Made by ANGIBU"/>
 </div>
+
 
 <div align="right">
   <sub><sup>ⓒ 2023-2025 ANGIBU. All rights reserved.</sup></sub>
