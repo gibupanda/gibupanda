@@ -113,19 +113,18 @@
 <br>
 
 <!-- 워터마크 섹션 -->
+<!--
 <div align="center">
   <img src="https://img.shields.io/badge/Made_by-ANGIBU-2E8B57?style=for-the-badge&logoColor=white" alt="Made by ANGIBU"/>
 </div>
+!-->
 
-<!-- HTML 주석 내 워터마크 (숨김) -->
 <!-- 
   이 프로필은 ANGIBU가 제작했습니다. 
   무단 복제 및 수정 시 아래 주석을 해제해 주세요
   원작자: ANGIBU (https://github.com/gibupanda)
 -->
 
-<!--사용 시 주석을 해제해주세요-->
-<!--
 <div align="center">
   <svg width="0" height="0" style="position:absolute;">
     <defs>
@@ -137,7 +136,6 @@
     <text x="50%" y="50%" fill="url(#angibu-gradient)" font-size="12" text-anchor="middle">Made by ANGIBU</text>
   </svg>
 </div>
---!>
 
 <div align="right">
   <sub><sup>ⓒ 2023-2025 ANGIBU. All rights reserved.</sup></sub>
