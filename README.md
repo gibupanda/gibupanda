@@ -125,7 +125,8 @@
 -->
 
 <!--사용 시 주석을 해제해주세요-->
-<!-- <div align="center">
+<!--
+<div align="center">
   <svg width="0" height="0" style="position:absolute;">
     <defs>
       <linearGradient id="angibu-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -135,7 +136,8 @@
     </defs>
     <text x="50%" y="50%" fill="url(#angibu-gradient)" font-size="12" text-anchor="middle">Made by ANGIBU</text>
   </svg>
-</div> --!>
+</div>
+--!>
 
 <div align="right">
   <sub><sup>ⓒ 2023-2025 ANGIBU. All rights reserved.</sup></sub>
