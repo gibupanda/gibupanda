@@ -97,7 +97,7 @@
       <td align="center">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="디스코드"/>
         <br>
-        <code>facecom200</code>
+        <code>panda_nim</code>
       </td>
       <td align="center">
         <a href="https://github.com/gibupanda">
