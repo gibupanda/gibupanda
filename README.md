@@ -85,7 +85,7 @@
       <td align="center" width="300">
         <h3>🤝 손길</h3>
         <a href="#">
-          <img src="https://img.shields.io/badge/Songil-FFC107?style=for-the-badge&logo=handshake&logoColor=black" alt="Songil"/>
+          <img src="https://img.shields.io/badge/Songil-FFC107?style=for-the-badge&logoColor=black" alt="Songil"/>
         </a>
         <br>
         <sub>커뮤니티 플랫폼<br>도움의 손길 매칭</sub>
