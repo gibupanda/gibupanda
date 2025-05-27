@@ -6,7 +6,7 @@
   <img src="https://www.spriters-resource.com/resources/sheet_icons/190/192991.gif?updated=1677970951" alt="도트 커비 추가" width="100"/>
 </div>
 
-<hr>
+---
 
 ## 🌿 기술 스택
 
