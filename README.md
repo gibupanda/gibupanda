@@ -134,3 +134,69 @@
       </td>
     </tr>
   </table>
+
+---
+
+## 📊 GitHub 통계
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANGIBU&show_icons=true&theme=vue&border_color=2E8B57&icon_color=2E8B57&title_color=2E8B57" alt="GitHub 통계"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANGIBU&layout=compact&langs_count=8&theme=vue&title_color=2E8B57&hide_border=true" alt="Top Langs"/>
+</div>
+
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+<br>
+
+## 🌱 연락처
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="이메일"/>
+        <br>
+        <code>facecom2000@gmail.com</code>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="디스코드"/>
+        <br>
+        <code>panda_nim</code>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gibupanda">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+          <br>
+        </a>
+        <code>이미지 클릭 시 이동</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- 워터마크 섹션 -->
+<!--
+<div align="center">
+  <img src="https://img.shields.io/badge/Made_by-ANGIBU-2E8B57?style=for-the-badge&logoColor=white" alt="Made by ANGIBU"/>
+</div>
+!-->
+
+<!-- 
+  이 프로필은 ANGIBU가 제작했습니다. 
+  무단 복제 및 수정 시 아래 주석을 해제해 주세요
+  원작자: ANGIBU (https://github.com/gibupanda)
+-->
+
+<!-- 워터마크 섹션 -->
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made_by-ANGIBU-2E8B57?style=for-the-badge&logoColor=white" alt="Made by ANGIBU"/>
+</div>
+
+
+<div align="right">
+  <sub><sup>ⓒ 2023-2025 ANGIBU. All rights reserved.</sup></sub>
+</div>
