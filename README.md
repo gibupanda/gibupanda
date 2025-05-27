@@ -1,35 +1,4 @@
----
-
-## 💡 전문 분야
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/🤖_AI_개발-FF6B6B?style=for-the-badge&logoColor=white"/>
-        <br>
-        <sub>YOLOv8, TensorFlow<br>컴퓨터 비전 & 객체 감지</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/🌐_웹_개발-4ECDC4?style=for-the-badge&logoColor=white"/>
-        <br>
-        <sub>Flask, RESTful API<br>반응형 프론트엔드</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/⚡_자동화-45B7D1?style=for-the-badge&logoColor=white"/>
-        <br>
-        <sub>Python 스크립팅<br>작업 효율성 극대화</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/🏗️_인프라-2E8B57?style=for-the-badge&logoColor=white"/>
-        <br>
-        <sub>Docker, Nginx<br>Ubuntu 서버 관리</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----# <div align="center">🐍｜Python개발자 - 안기부<img src="https://www.spriters-resource.com/resources/sheet_icons/143/146377.png?updated=1609165515" alt="도트 커비 PNG" width="100"/></div>
+🐍｜Python개발자 - 안기부<img src="https://www.spriters-resource.com/resources/sheet_icons/143/146377.png?updated=1609165515" alt="도트 커비 PNG" width="100"/></div>
 <div align="center">
   <img src="https://www.spriters-resource.com/resources/sheet_icons/198/200858.gif?updated=1688787145" alt="도트 커비 1" width="100"/>
   <img src="https://www.spriters-resource.com/resources/sheet_icons/195/197726.gif?updated=1684173595" alt="도트 커비 2" width="100"/>
@@ -37,13 +6,7 @@
   <img src="https://www.spriters-resource.com/resources/sheet_icons/190/192991.gif?updated=1677970951" alt="도트 커비 추가" width="100"/>
 </div>
 
----
-
-## 🚀 소개
-> **파이썬 전문 풀스택 개발자**로 **AI/IoT** 솔루션 개발에 특화되어 있습니다  
-> **자동화 도구** 개발과 **스마트 시티 기술** 구현에 열정을 가지고 있습니다
-
----
+<hr>
 
 ## 🌿 기술 스택
 
