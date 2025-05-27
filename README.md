@@ -85,7 +85,7 @@
           <img src="https://img.shields.io/badge/Songil-FFC107?style=for-the-badge&logoColor=black" alt="Songil"/>
         </a>
         <br>
-        <sub>커뮤니티 플랫폼<br>도움의 손길 매칭</sub>
+        <sub>실종자 조회&찾기 플랫폼<br>도움의 손길을 주세요</sub>
       </td>
     </tr>
     <tr>
