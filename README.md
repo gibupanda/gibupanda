@@ -149,6 +149,8 @@
 </div>
 <br>
 
+---
+
 ## 🌱 연락처
 
 <div align="center">
