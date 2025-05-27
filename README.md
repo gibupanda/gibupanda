@@ -194,11 +194,6 @@
 
 <!-- 워터마크 섹션 -->
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Made_by-ANGIBU-2E8B57?style=for-the-badge&logoColor=white" alt="Made by ANGIBU"/>
-</div>
-
-
 <div align="right">
   <sub><sup>ⓒ 2023-2025 ANGIBU. All rights reserved.</sup></sub>
 </div>
