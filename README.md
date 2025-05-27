@@ -1,4 +1,4 @@
-## <div align="center">🐍｜Python개발자 - 안기부<img src="https://www.spriters-resource.com/resources/sheet_icons/143/146377.png?updated=1609165515" alt="도트 커비 PNG" width="100"/></div>
+# <div align="center">🐍｜Python개발자 - 안기부<img src="https://www.spriters-resource.com/resources/sheet_icons/143/146377.png?updated=1609165515" alt="도트 커비 PNG" width="100"/></div>
 
 ---
 
