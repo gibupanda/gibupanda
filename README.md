@@ -1,4 +1,4 @@
-# <div align="center">🐍｜Python개발자 - 안기부<img src="https://www.spriters-resource.com/resources/sheet_icons/143/146377.png?updated=1609165515" alt="도트 커비 PNG" width="100"/></div>
+# <div align="center">🐍｜Python개발자 - 안기부
 <div align="center">
   <img src="https://www.spriters-resource.com/resources/sheet_icons/198/200858.gif?updated=1688787145" alt="도트 커비 1" width="100"/>
   <img src="https://www.spriters-resource.com/resources/sheet_icons/195/197726.gif?updated=1684173595" alt="도트 커비 2" width="100"/>
@@ -73,7 +73,7 @@
       </td>
       <td align="center" width="300">
         <h3>📋 투데이 투두</h3>
-        <a href="https://www.today-todo.smartlivon.com/todo">
+        <a href="https://www.tutu.smartlivon.com/todo">
           <img src="https://img.shields.io/badge/Today_Todo-28A745?style=for-the-badge&logo=checklist&logoColor=white" alt="Today Todo"/>
         </a>
         <br>
@@ -81,7 +81,7 @@
       </td>
       <td align="center" width="300">
         <h3>🤝 손길</h3>
-        <a href="#">
+        <a href="https://www.songil.smartlivon.com/todo">
           <img src="https://img.shields.io/badge/Songil-FFC107?style=for-the-badge&logoColor=black" alt="Songil"/>
         </a>
         <br>
@@ -107,7 +107,7 @@
       </td>
       <td align="center" width="300">
         <h3>💬 투데이 톡</h3>
-        <a href="https://www.today-talk.smartlivon.com/">
+        <a href="https://www.haru.smartlivon.com/">
           <img src="https://img.shields.io/badge/Today_Talk-4ECDC4?style=for-the-badge&logo=chat&logoColor=white" alt="Today Talk"/>
         </a>
         <br>
