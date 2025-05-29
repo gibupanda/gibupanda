@@ -105,14 +105,6 @@
         <br>
         <sub>YOLOv8 기반 불법주차 자동감지<br>ESP32-CAM 실시간 스트리밍</sub>
       </td>
-      <td align="center" width="300">
-        <h3>💬 하루</h3>
-        <a href="https://www.haru.smartlivon.com/">
-          <img src="https://img.shields.io/badge/haru-4ECDC4?style=for-the-badge&logo=chat&logoColor=white" alt="Today Talk"/>
-        </a>
-        <br>
-        <sub>Flask 기반 소셜 미디어 플랫폼<br>실시간 알림 & 자동 뉴스 수집</sub>
-      </td>
     </tr>
   </table>
 </div>
