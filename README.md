@@ -66,7 +66,7 @@
       <td align="center" width="300">
         <h3>🗂️ 포트폴리오</h3>
         <a href="https://www.portfolio.smartlivon.com/">
-          <img src="https://img.shields.io/badge/포트폴리오-45B7D1?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+          <img src="https://img.shields.io/badge/portfolio-45B7D1?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
         </a>
         <br>
         <sub>반응형 웹 포트폴리오<br>Docker & Nginx 배포</sub>
@@ -74,7 +74,7 @@
       <td align="center" width="300">
         <h3>📋 투투</h3>
         <a href="https://www.tutu.smartlivon.com/todo">
-          <img src="https://img.shields.io/badge/투투-28A745?style=for-the-badge&logo=checklist&logoColor=white" alt="Today Todo"/>
+          <img src="https://img.shields.io/badge/tutu-28A745?style=for-the-badge&logo=checklist&logoColor=white" alt="Today Todo"/>
         </a>
         <br>
         <sub>할 일 관리 웹 애플리케이션<br>스마트한 일정 관리</sub>
@@ -82,7 +82,7 @@
       <td align="center" width="300">
         <h3>🤝 손길</h3>
         <a href="https://www.songil.smartlivon.com/todo">
-          <img src="https://img.shields.io/badge/손길-FFC107?style=for-the-badge&logoColor=black" alt="Songil"/>
+          <img src="https://img.shields.io/badge/songil-FFC107?style=for-the-badge&logoColor=black" alt="Songil"/>
         </a>
         <br>
         <sub>실종자 조회&찾기 플랫폼<br>도움의 손길을 주세요</sub>
@@ -108,7 +108,7 @@
       <td align="center" width="300">
         <h3>💬 하루</h3>
         <a href="https://www.haru.smartlivon.com/">
-          <img src="https://img.shields.io/badge/하루-4ECDC4?style=for-the-badge&logo=chat&logoColor=white" alt="Today Talk"/>
+          <img src="https://img.shields.io/badge/haru-4ECDC4?style=for-the-badge&logo=chat&logoColor=white" alt="Today Talk"/>
         </a>
         <br>
         <sub>Flask 기반 소셜 미디어 플랫폼<br>실시간 알림 & 자동 뉴스 수집</sub>
