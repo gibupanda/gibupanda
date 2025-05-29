@@ -155,8 +155,9 @@
 
 <!-- 
   이 프로필은 ANGIBU가 제작했습니다. 
-  무단 복제 및 수정 시 아래 주석을 해제해 주세요
-  원작자: ANGIBU (https://github.com/gibupanda)
+  https://github.com/ANGIBU
+  해당 ReadMe사용시 아래 워터마크 섹션을 무조건 기입해주세요
+  미기입시 스크립트 추적 후 법적처리 예정
 -->
 
 <!-- 워터마크 섹션 -->
