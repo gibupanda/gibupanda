@@ -72,7 +72,7 @@
         <sub>반응형 웹 포트폴리오<br>Docker & Nginx 배포</sub>
       </td>
       <td align="center" width="300">
-        <h3>📋 투투</h3>
+        <h3>🔥 투투</h3>
         <a href="https://www.tutu.smartlivon.com/todo">
           <img src="https://img.shields.io/badge/tutu-28A745?style=for-the-badge&logo=checklist&logoColor=white" alt="Today Todo"/>
         </a>
